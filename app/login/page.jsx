@@ -6,7 +6,6 @@ export default function Home() {
       <h1 className="text-2xl font-bold">
         Hello Welcome to the Hourss HR managemnet
       </h1>
-      <Link href={"/"}> Login</Link>
     </div>
   );
 }
